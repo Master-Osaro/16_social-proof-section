@@ -44,6 +44,7 @@ main {
 
 .social-proof-header p {
     color: var(--dark-grayish-magenta);
+    line-height: 1.3rem;
 }
 
 .social-proof-rating {
