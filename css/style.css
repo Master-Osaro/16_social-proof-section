@@ -36,8 +36,8 @@ main {
 }
 
 .social-proof-header h1 {
-    font-size: 2rem;
-    line-height: 2rem;
+    font-size: 3rem;
+    line-height: 3rem;
     margin-bottom: 1rem;
     color: var(--very-dark-magenta);
 }
@@ -151,6 +151,10 @@ main {
 }
 
 @media screen and (max-width: 748px) {
+    .social-proof-header h1 {
+        font-size: 2rem;
+        line-height: 2rem;
+    }
     .social-proof-rating-card div {
         display: flex;
         flex-direction: row;
